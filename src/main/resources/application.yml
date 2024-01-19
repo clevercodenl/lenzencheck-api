@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url:  jdbc:mysql://172.29.8.1:3306/lenzencheck-api
+    username: test
+    password: password
