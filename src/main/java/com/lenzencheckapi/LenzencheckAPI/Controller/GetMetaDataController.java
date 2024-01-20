@@ -6,7 +6,6 @@ import org.springframework.web.bind.annotation.*;
 import java.time.Year;
 
 @RestController
-@RequestMapping("/")
 public class GetMetaDataController {
     private static final String PHONE_NUMBER = "+31646545465";
     private static final String METADATA_ENDPOINT = "/metadata";
