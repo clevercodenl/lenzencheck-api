@@ -1,6 +1,6 @@
-package com.lenzencheckapi.LenzencheckAPI.Controller;
+package com.lenzencheckapi.LenzencheckAPI.Controllers;
 
-import com.lenzencheckapi.LenzencheckAPI.Response.GetMetaDataResponse;
+import com.lenzencheckapi.LenzencheckAPI.Responses.GetMetaDataResponse;
 import org.springframework.web.bind.annotation.*;
 
 import java.time.Year;

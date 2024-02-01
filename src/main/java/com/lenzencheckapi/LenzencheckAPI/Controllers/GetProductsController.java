@@ -1,4 +1,4 @@
-package com.lenzencheckapi.LenzencheckAPI.Controller;
+package com.lenzencheckapi.LenzencheckAPI.Controllers;
 
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.http.ResponseEntity;

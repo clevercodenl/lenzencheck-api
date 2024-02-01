@@ -1,4 +1,4 @@
-package com.lenzencheckapi.LenzencheckAPI.Response;
+package com.lenzencheckapi.LenzencheckAPI.Responses;
 
 public record GetMetaDataResponse(String copyRightYear, String phoneNumber) {
 }
