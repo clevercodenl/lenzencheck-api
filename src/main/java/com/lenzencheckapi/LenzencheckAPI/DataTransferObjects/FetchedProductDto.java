@@ -1,0 +1,33 @@
+package com.lenzencheckapi.LenzencheckAPI.DataTransferObjects;
+
+public record FetchedProductDto(
+        String awDeepLinkValue,
+        String awProductIdValue,
+        String awImageUrl,
+        String merchantImageUrl,
+        String largeImage,
+        String alternateImage,
+        String alternateImage2,
+        String alternateImage3,
+        String alternateImage4,
+        String merchantId,
+        String merchantName,
+        String merchantProductIdValue,
+        String merchantDeepLink,
+        String brandId,
+        String brandName,
+        String specifications,
+        String name,
+        String productEan,
+        String description,
+        String currency,
+        String storePrice,
+        String searchPrice,
+        String displayPrice,
+        String deliveryCost,
+        String deliveryTime,
+        String stockQuantity,
+        String inStock,
+        String isForSale,
+        String upc
+) {}
